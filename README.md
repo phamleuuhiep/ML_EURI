@@ -5,7 +5,7 @@
 ### Decision trees
 
 ### Neural networks
-
+Phase 1 using CNN model for training CV dataset
 ### Naive Bayes
 
 ### Genetic Algorithms
