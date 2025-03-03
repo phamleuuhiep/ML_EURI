@@ -17,9 +17,7 @@ Fully connected layers (FC Layers): They are the main part to flatten extracted 
 Softmax layer : It converts raw predictions into class probabilities (for multi-class classification).
 
 Detail
-==================================
 
-Layer Type                    Description
 ------------------------------------------------------------
 Input Layer                   Accepts grayscale or RGB images (depends on dataset preprocessing). 
                               Images are resized to a fixed dimension before being fed into the network.
