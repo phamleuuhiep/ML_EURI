@@ -12,11 +12,11 @@ IMAGE_DIR = "reports/figures/naive_bayes/"
 
 def test_predict(model_dir, result_dir):
     # Load test data
-    test_images = np.load(os.path.join(PROCESSED_DIR, "test_images.npy"))
+    X_train_pca = np.load(os.path.join(PROCESSED_DIR, "test_features.npy"))
     # Load trained model
     model = joblib.load(model_dir)
     # Make predictions
-    predict_labels = model.predict(test_images)
+    predict_labels = model.predict(X_train_pca)
     # Load filenames for test data
     file_dirs = np.load(DATA_TEST_DIR)
     # Ensure the result directory exists
