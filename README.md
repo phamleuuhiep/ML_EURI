@@ -22,4 +22,3 @@ Machine learning has been rapidly evolving in recent years, with a dramatic incr
 ### Naive Bayes
 
 ### Genetic Algorithms
-Phase 1 : Implementation of a genetic algorithm to optimize the hyperparameters of a Convolutional Neural Network (CNN). The goal is to find the best combination of hyperparameters (e.g., number of filters, dense units, learning rate, batch size) that maximizes the validation accuracy of the CNN.
