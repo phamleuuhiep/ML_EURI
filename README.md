@@ -19,7 +19,10 @@ Machine learning has been rapidly evolving in recent years, with a dramatic incr
 Throughout this process, we explore Decision Trees for image classification. Starting with a fully grown tree, we observe the ability of overfitting issues, leading us to apply K-Fold Cross-Validation and Grid Search to tune key hyperparameters like max depth and minimum samples for splits and leaves. To further refine the model, we perform post-pruning using cost complexity pruning (ccp_alpha) with the goal to achieve a better balance between accuracy and complexity, improving generalization.
 
 ### Neural networks
+The architecture consists of convolutional layers that extract spatial features from input images using learnable filters, followed by ReLU activation functions to introduce non-linearity for better feature learning. Max pooling layers downsample feature maps to reduce computational cost while retaining essential information. Fully connected layers flatten the extracted features and pass them through dense layers for final classification, with a softmax layer converting raw predictions into class probabilities for multi-class classification.
 
 ### Naive Bayes
 
 ### Genetic Algorithms
+
+### Link github: https://github.com/phamleuuhiep/ML_EURI
