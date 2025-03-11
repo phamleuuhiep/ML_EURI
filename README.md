@@ -5,7 +5,7 @@
 | **Student ID** | **Name** | **Task** | **Contribution** |
 | -------------- | ---------------- | -------- | ---------------- |
 | Write your id | Write your name  | Write your task | Write your contribution |
-| 2252223       | Pham Le Huu Hiep | Neural Network  |           25%           |
+| 2252223       | Pham Le Huu Hiep | Neural Network  |           20%           |
 | Write your id | Write your name  | Write your task | Write your contribution |
 | Write your id | Write your name  | Write your task | Write your contribution |
 | Write your id | Write your name  | Write your task | Write your contribution |
