@@ -3,12 +3,12 @@
 <div align='center'>
 
 | **Student ID** | **Name** | **Task** | **Contribution** |
-| -------------- | ---------------- | -------- | ---------------- |
-| Write your id | Write your name     | Write your task | Write your contribution |
-| 2252223       | Pham Le Huu Hiep    | Neural Network  |           20%           |
-| Write your id | Write your name     | Write your task | Write your contribution |
-| Write your id | Write your name     | Write your task | Write your contribution |
-| 2152503       | Nguyen Ho Tien Dat  | Decision Tree   |           20%           |
+| -------------- | ---------------------- | --------------- | ----------------------- |
+| 2252733        | Nguyen Duong Khanh Tam | Naive Bayes     |           20%           |
+| 2252223        | Pham Le Huu Hiep       | Neural Network  |           20%           |
+| Write your id  | Write your name        | Write your task | Write your contribution |
+| Write your id  | Write your name        | Write your task | Write your contribution |
+| 2152503        | Nguyen Ho Tien Dat     | Decision Tree   |           20%           |
 
 </div>
 
@@ -22,6 +22,7 @@ Throughout this process, we explore Decision Trees for image classification. Sta
 The architecture consists of convolutional layers that extract spatial features from input images using learnable filters, followed by ReLU activation functions to introduce non-linearity for better feature learning. Max pooling layers downsample feature maps to reduce computational cost while retaining essential information. Fully connected layers flatten the extracted features and pass them through dense layers for final classification, with a softmax layer converting raw predictions into class probabilities for multi-class classification.
 
 ### Naive Bayes
+We explore the Naive Bayes classifier, a probabilistic model based on Bayes' theorem with an independence assumption. Through the process, we have covered theoretical foundations, practical implementation using scikit-learn, and application to datasets like Iris for classification tasks. Key steps include data preprocessing, model training, prediction, and performance evaluation using metrics like accuracy and F1-score. Visualizations help interpret results, providing a comprehensive understanding of Naive Bayes in real-world scenarios.
 
 ### Genetic Algorithms
 Hyperparameter optimization plays a pivotal role in enhancing the performance of deep learning models, particularly Convolutional Neural Networks (CNN). Traditional methods like grid search or random search, can be computationally expensive and may not efficiently explore the vast hyperparameter space. To address this challenge, evolutionary solution like Genetic Algorithms (GA) offer an adaptive approach to discovering optimal configurations. In term of simulating natural selection, GA iteratively refine hyperparameters to improve model accuracy. 
