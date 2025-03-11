@@ -6,7 +6,7 @@
 | -------------- | ---------------------- | --------------- | ----------------------- |
 | 2252733        | Nguyen Duong Khanh Tam | Naive Bayes     |           20%           |
 | 2252223        | Pham Le Huu Hiep       | Neural Network  |           20%           |
-| Write your id  | Write your name        | Write your task | Write your contribution |
+| 2252235        | Nguyen Viet Hoang      | Write README    |           20%           |
 | 2460001        | Quentin Tripard        | Genetic Algorithm | 20% |
 | 2152503        | Nguyen Ho Tien Dat     | Decision Tree   |           20%           |
 
