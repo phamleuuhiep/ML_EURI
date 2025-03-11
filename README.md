@@ -24,5 +24,5 @@ The architecture consists of convolutional layers that extract spatial features 
 ### Naive Bayes
 
 ### Genetic Algorithms
-
+Hyperparameter optimization plays a pivotal role in enhancing the performance of deep learning models, particularly Convolutional Neural Networks (CNN). Traditional methods like grid search or random search, can be computationally expensive and may not efficiently explore the vast hyperparameter space. To address this challenge, evolutionary solution like Genetic Algorithms (GA) offer an adaptive approach to discovering optimal configurations. In term of simulating natural selection, GA iteratively refine hyperparameters to improve model accuracy. 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
