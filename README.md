@@ -24,6 +24,9 @@ The architecture consists of convolutional layers that extract spatial features 
 ### Naive Bayes
 We explore the Naive Bayes classifier, a probabilistic model based on Bayes' theorem with an independence assumption. Through the process, we have covered theoretical foundations, practical implementation using scikit-learn, and application to datasets like Iris for classification tasks. Key steps include data preprocessing, model training, prediction, and performance evaluation using metrics like accuracy and F1-score. Visualizations help interpret results, providing a comprehensive understanding of Naive Bayes in real-world scenarios.
 
+### Genetic Algorithms
+Hyperparameter optimization plays a pivotal role in enhancing the performance of deep learning models, particularly Convolutional Neural Networks (CNN). Traditional methods like grid search or random search, can be computationally expensive and may not efficiently explore the vast hyperparameter space. To address this challenge, evolutionary solution like Genetic Algorithms (GA) offer an adaptive approach to discovering optimal configurations. In term of simulating natural selection, GA iteratively refine hyperparameters to improve model accuracy. 
+
 
 # COMPREHENSIVE MACHINE LEARNING MODELS: IMPLEMENTATION AND COMPARISON (2st Stage) 
 
@@ -39,6 +42,4 @@ We explore the Naive Bayes classifier, a probabilistic model based on Bayes' the
 
 </div>
 
-### Genetic Algorithms
-Hyperparameter optimization plays a pivotal role in enhancing the performance of deep learning models, particularly Convolutional Neural Networks (CNN). Traditional methods like grid search or random search, can be computationally expensive and may not efficiently explore the vast hyperparameter space. To address this challenge, evolutionary solution like Genetic Algorithms (GA) offer an adaptive approach to discovering optimal configurations. In term of simulating natural selection, GA iteratively refine hyperparameters to improve model accuracy. 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
