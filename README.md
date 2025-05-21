@@ -24,6 +24,21 @@ The architecture consists of convolutional layers that extract spatial features 
 ### Naive Bayes
 We explore the Naive Bayes classifier, a probabilistic model based on Bayes' theorem with an independence assumption. Through the process, we have covered theoretical foundations, practical implementation using scikit-learn, and application to datasets like Iris for classification tasks. Key steps include data preprocessing, model training, prediction, and performance evaluation using metrics like accuracy and F1-score. Visualizations help interpret results, providing a comprehensive understanding of Naive Bayes in real-world scenarios.
 
+
+# COMPREHENSIVE MACHINE LEARNING MODELS: IMPLEMENTATION AND COMPARISON (2st Stage) 
+
+<div align='center'>
+
+| **Student ID** | **Name** | **Task** | **Contribution** |
+| -------------- | ---------------------- | --------------- | ----------------------- |
+| 2252733        | Nguyen Duong Khanh Tam | Naive Bayes     |           20%           |
+| 2252223        | Pham Le Huu Hiep       | Supported Vector Machine, PDA, RNN  |           20%           |
+| 2252235        | Nguyen Viet Hoang      | Write README    |           20%           |
+| 2460001        | Quentin Tripard        | Genetic Algorithm | 20% |
+| 2152503        | Nguyen Ho Tien Dat     | Decision Tree   |           20%           |
+
+</div>
+
 ### Genetic Algorithms
 Hyperparameter optimization plays a pivotal role in enhancing the performance of deep learning models, particularly Convolutional Neural Networks (CNN). Traditional methods like grid search or random search, can be computationally expensive and may not efficiently explore the vast hyperparameter space. To address this challenge, evolutionary solution like Genetic Algorithms (GA) offer an adaptive approach to discovering optimal configurations. In term of simulating natural selection, GA iteratively refine hyperparameters to improve model accuracy. 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
