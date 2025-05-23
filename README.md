@@ -35,11 +35,20 @@ Hyperparameter optimization plays a pivotal role in enhancing the performance of
 | **Student ID** | **Name** | **Task** | **Contribution** |
 | -------------- | ---------------------- | --------------- | ----------------------- |
 | 2252733        | Nguyen Duong Khanh Tam | Naive Bayes     |           20%           |
-| 2252223        | Pham Le Huu Hiep       | Supported Vector Machine, PDA, RNN  |           20%           |
+| 2252223        | Pham Le Huu Hiep       | Supported Vector Machine, PCA, RNN  |           20%           |
 | 2252235        | Nguyen Viet Hoang      | Write README    |           20%           |
 | 2460001        | Quentin Tripard        | Genetic Algorithm | 20% |
 | 2152503        | Nguyen Ho Tien Dat     | Decision Tree   |           20%           |
 
 </div>
+
+### Support Vector Machine (SVM)
+A supervised learning algorithm used for classification and regression. It finds the best boundary (hyperplane) that separates classes by maximizing the margin between data points of different classes.
+
+### Principal Component Analysis (PCA)
+An unsupervised dimensionality reduction technique that transforms data into a new coordinate system, keeping the most important features (principal components) that capture the most variance in the data.
+
+### Recurrent Neural Network (RNN)
+A type of neural network designed for sequential data. It has memory of previous inputs, making it suitable for tasks like time series, language modeling, and speech recognition.
 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
