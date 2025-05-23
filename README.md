@@ -36,8 +36,8 @@ Hyperparameter optimization plays a pivotal role in enhancing the performance of
 | -------------- | ---------------------- | --------------- | ----------------------- |
 | 2252733        | Nguyen Duong Khanh Tam | Ensemble Methods     |           20%           |
 | 2252223        | Pham Le Huu Hiep       | Supported Vector Machine, PCA, RNN  |           20%           |
-| 2252235        | Nguyen Viet Hoang      | Write README    |           20%           |
-| 2460001        | Quentin Tripard        | Genetic Algorithm | 20% |
+| 2252235        | Nguyen Viet Hoang      | Write README, Logistic Regression    |           20%           |
+| 2460001        | Quentin Tripard        | CRF, Max Entropy | 20% |
 | 2152503        | Nguyen Ho Tien Dat     | HMM, Bayes Network   |           20%           |
 
 </div>
@@ -59,5 +59,11 @@ A generative sequence model used for temporal or sequential data. It models syst
 
 ### Ensemble Methods  
 A set of machine learning techniques that combine multiple models to improve accuracy, reduce bias, and enhance generalization, leveraging methods like bagging, boosting, and stacking to make more reliable predictions.
+
+### CRF 
+CRF can be used in aspect-based sentiment analysis, where the goal is not just to classify a sentence as positive or negative, but to identify specific aspects (targets) and their associated sentiments.
+
+### Maximum Entropy
+Maximum Entropy (MaxEnt), also known as logistic regression in binary classification, is a probabilistic model used for text classification, including sentiment analysis.
 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
