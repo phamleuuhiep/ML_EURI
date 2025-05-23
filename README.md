@@ -38,7 +38,7 @@ Hyperparameter optimization plays a pivotal role in enhancing the performance of
 | 2252223        | Pham Le Huu Hiep       | Supported Vector Machine, PCA, RNN  |           20%           |
 | 2252235        | Nguyen Viet Hoang      | Write README    |           20%           |
 | 2460001        | Quentin Tripard        | Genetic Algorithm | 20% |
-| 2152503        | Nguyen Ho Tien Dat     | Decision Tree   |           20%           |
+| 2152503        | Nguyen Ho Tien Dat     | HMM, Bayes Network   |           20%           |
 
 </div>
 
@@ -50,5 +50,11 @@ An unsupervised dimensionality reduction technique that transforms data into a n
 
 ### Recurrent Neural Network (RNN)
 A type of neural network designed for sequential data. It has memory of previous inputs, making it suitable for tasks like time series, language modeling, and speech recognition.
+
+### Bayesian Network
+A probabilistic graphical model used for classification and inference. It represents conditional dependencies among variables using a directed acyclic graph, enabling reasoning under uncertainty by computing posterior probabilities based on observed features.
+
+### Hidden Markov Model (HMM)
+A generative sequence model used for temporal or sequential data. It models systems with hidden (latent) states and observed outputs, capturing the probabilities of state transitions and emissions to infer the most likely sequence of hidden states from observed data.
 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
