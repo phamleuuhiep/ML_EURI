@@ -28,18 +28,42 @@ We explore the Naive Bayes classifier, a probabilistic model based on Bayes' the
 Hyperparameter optimization plays a pivotal role in enhancing the performance of deep learning models, particularly Convolutional Neural Networks (CNN). Traditional methods like grid search or random search, can be computationally expensive and may not efficiently explore the vast hyperparameter space. To address this challenge, evolutionary solution like Genetic Algorithms (GA) offer an adaptive approach to discovering optimal configurations. In term of simulating natural selection, GA iteratively refine hyperparameters to improve model accuracy. 
 
 
-# COMPREHENSIVE MACHINE LEARNING MODELS: IMPLEMENTATION AND COMPARISON (2st Stage) 
+# COMPREHENSIVE MACHINE LEARNING MODELS: IMPLEMENTATION AND COMPARISON (2nd Stage) 
 
 <div align='center'>
 
 | **Student ID** | **Name** | **Task** | **Contribution** |
 | -------------- | ---------------------- | --------------- | ----------------------- |
-| 2252733        | Nguyen Duong Khanh Tam | Naive Bayes     |           20%           |
-| 2252223        | Pham Le Huu Hiep       | Supported Vector Machine, PDA, RNN  |           20%           |
-| 2252235        | Nguyen Viet Hoang      | Write README    |           20%           |
-| 2460001        | Quentin Tripard        | Genetic Algorithm | 20% |
-| 2152503        | Nguyen Ho Tien Dat     | Decision Tree   |           20%           |
+| 2252733        | Nguyen Duong Khanh Tam | Ensemble Methods     |           20%           |
+| 2252223        | Pham Le Huu Hiep       | Supported Vector Machine, PCA, RNN  |           20%           |
+| 2252235        | Nguyen Viet Hoang      | Write README, Logistic Regression    |           20%           |
+| 2460001        | Quentin Tripard        | CRF, Max Entropy | 20% |
+| 2152503        | Nguyen Ho Tien Dat     | HMM, Bayes Network   |           20%           |
 
 </div>
+
+### Support Vector Machine (SVM)
+A supervised learning algorithm used for classification and regression. It finds the best boundary (hyperplane) that separates classes by maximizing the margin between data points of different classes.
+
+### Principal Component Analysis (PCA)
+An unsupervised dimensionality reduction technique that transforms data into a new coordinate system, keeping the most important features (principal components) that capture the most variance in the data.
+
+### Recurrent Neural Network (RNN)
+A type of neural network designed for sequential data. It has memory of previous inputs, making it suitable for tasks like time series, language modeling, and speech recognition.
+
+### Bayesian Network
+A probabilistic graphical model used for classification and inference. It represents conditional dependencies among variables using a directed acyclic graph, enabling reasoning under uncertainty by computing posterior probabilities based on observed features.
+
+### Hidden Markov Model (HMM)
+A generative sequence model used for temporal or sequential data. It models systems with hidden (latent) states and observed outputs, capturing the probabilities of state transitions and emissions to infer the most likely sequence of hidden states from observed data.
+
+### Ensemble Methods  
+A set of machine learning techniques that combine multiple models to improve accuracy, reduce bias, and enhance generalization, leveraging methods like bagging, boosting, and stacking to make more reliable predictions.
+
+### CRF 
+CRF can be used in aspect-based sentiment analysis, where the goal is not just to classify a sentence as positive or negative, but to identify specific aspects (targets) and their associated sentiments.
+
+### Maximum Entropy
+Maximum Entropy (MaxEnt), also known as logistic regression in binary classification, is a probabilistic model used for text classification, including sentiment analysis.
 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
