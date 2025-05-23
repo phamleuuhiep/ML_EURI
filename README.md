@@ -34,7 +34,7 @@ Hyperparameter optimization plays a pivotal role in enhancing the performance of
 
 | **Student ID** | **Name** | **Task** | **Contribution** |
 | -------------- | ---------------------- | --------------- | ----------------------- |
-| 2252733        | Nguyen Duong Khanh Tam | Naive Bayes     |           20%           |
+| 2252733        | Nguyen Duong Khanh Tam | Ensemble Methods     |           20%           |
 | 2252223        | Pham Le Huu Hiep       | Supported Vector Machine, PCA, RNN  |           20%           |
 | 2252235        | Nguyen Viet Hoang      | Write README    |           20%           |
 | 2460001        | Quentin Tripard        | Genetic Algorithm | 20% |
@@ -56,5 +56,8 @@ A probabilistic graphical model used for classification and inference. It repres
 
 ### Hidden Markov Model (HMM)
 A generative sequence model used for temporal or sequential data. It models systems with hidden (latent) states and observed outputs, capturing the probabilities of state transitions and emissions to infer the most likely sequence of hidden states from observed data.
+
+### Ensemble Methods  
+A set of machine learning techniques that combine multiple models to improve accuracy, reduce bias, and enhance generalization, leveraging methods like bagging, boosting, and stacking to make more reliable predictions.
 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
