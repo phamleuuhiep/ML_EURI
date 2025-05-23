@@ -60,6 +60,9 @@ A generative sequence model used for temporal or sequential data. It models syst
 ### Ensemble Methods  
 A set of machine learning techniques that combine multiple models to improve accuracy, reduce bias, and enhance generalization, leveraging methods like bagging, boosting, and stacking to make more reliable predictions.
 
+### Logistic regression
+Uses softmax function instead of sigmoid function (or logistic function) for multi-class probabilities. Applies solver lbfgs and regularization strength C = 2.5 for accuracy.
+
 ### CRF 
 CRF can be used in aspect-based sentiment analysis, where the goal is not just to classify a sentence as positive or negative, but to identify specific aspects (targets) and their associated sentiments.
 
