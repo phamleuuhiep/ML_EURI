@@ -64,9 +64,9 @@ A set of machine learning techniques that combine multiple models to improve acc
 Uses softmax function instead of sigmoid function (or logistic function) for multi-class probabilities. Applies solver lbfgs and regularization strength C = 2.5 for accuracy.
 
 ### CRF 
-CRF can be used in aspect-based sentiment analysis, where the goal is not just to classify a sentence as positive or negative, but to identify specific aspects (targets) and their associated sentiments.
+Conditional Random Fields (CRF) offer a powerful framework for structured prediction tasks, particularly in natural language processing. In this work, CRFs are used to classify the overall sentiment of sentences by leveraging word-level features and contextual dependencies. Unlike traditional classifiers that treat sentences as independent units, CRFs model the sequential nature of text, allowing more accurate sentiment inference through word interactions.
 
 ### Maximum Entropy
-Maximum Entropy (MaxEnt), also known as logistic regression in binary classification, is a probabilistic model used for text classification, including sentiment analysis.
+Maximum Entropy (MaxEnt) models, (multinomial logistic regression) provide a robust and interpretable baseline for text classification tasks. In this notebook, a MaxEnt classifier is applied to sentence-level sentiment analysis using TF-IDF features. Unlike sequential models, MaxEnt treats each sentence as a flat feature vector, relying on the statistical contribution of individual words to predict sentiment. This approach highlights the effectiveness of linear models for capturing explicit lexical cues in sentiment-rich text data.
 
 ### Link github: https://github.com/phamleuuhiep/ML_EURI
